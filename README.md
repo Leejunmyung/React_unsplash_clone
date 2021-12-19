@@ -3,8 +3,7 @@
 </br>
 
 # Team Splash
-웹사이트 unsplash 클론 코딩 =>
-<a href="https://unsplash.com/">Unsplash 웹사이트</a>  
+**웹사이트 unsplash 클론 코딩입니다.**
 
 </br>
 </br>
