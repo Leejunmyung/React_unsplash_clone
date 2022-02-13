@@ -4,27 +4,33 @@
 
 # Team Splash
 **웹사이트 unsplash 클론 코딩입니다.**
+<!-- <img src="https://user-images.githubusercontent.com/91620721/152481773-846e84b3-82d2-47af-8f4f-d4df95f82838.gif" width="1280" height="600"/> -->
+![img](https://user-images.githubusercontent.com/91620721/152481773-846e84b3-82d2-47af-8f4f-d4df95f82838.gif)
 
 </br>
 
-## 구성원 및 역할👫
+## 🎈 Introduction
+> 고화질 이미지 공유 사이트인 Unsplash를 클론 코딩한 프로젝트입니다.
+> <a href="https://www.youtube.com/watch?v=7NqR7eWZ1Hw" target="_blank">프로젝트 시연 영상<a/>
 
-### **Front-end**
-- 정주혜
-- 이준명
+* 개발 기간: 2021.12.13 - 2021.12.18
+* **주요 기능**
+  * 이메일 중복확인, 회원가입, 로그인
+  * 이미지 업로드 시 출력 비율 선택 기능, 카테고리 입력 기능
+  * 이미지 수정, 삭제,  기능
+  * 이미지 카테고리 검색 기능
+  * 유저 활동 기록 (유저가 업로드한 이미지)
+* 협업 툴 : Git, Notion, Slack
+* 개발 인원 : 4명
 
-프론트 깃헙 링크 => 
-<a href="https://github.com/Hanghae99-Team-Splash/Team-Splash-Frontend">바로가기</a>
+| Position | Member | Github |
+|:---:|:---:|:---:|
+| Front-end | 이준명 | [이준명 님의 Github](https://github.com/Leejunmyung) |
+| Front-end | 정주혜 | [정주혜 님의 Github](https://github.com/zubetcha) |
+| Back-end | 이현범 | [이현범 님의 Github](https://github.com/mylhb9) |
+| Back-end | 임전혁 | [임전혁 님의 Github](https://github.com/yarogono) |
 
-</br>
 
-
-### **Back-end**
-- 이현범
-- 임전혁
-
-백엔드 깃헙 링크 => 
-<a href="https://github.com/Hanghae99-Team-Splash/Team-Splash-Backend">바로가기</a>
 
 </br>
 </br>
